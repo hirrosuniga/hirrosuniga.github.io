@@ -1,21 +1,21 @@
-.box {
-    
-    height: 100px;
-    
-}
+
 
 .box1 {
     background-color: rgb(181, 125, 233);
+    height: 100px;
 }
 
 .box2 {
     background-color: rgb(243, 190, 90);
+    height: 100px;
 }
 
 .box3 {
     background-color: rgb(154, 231, 119);
+    height: 300px;
 }
 
 .box4 {
     background-color: rgb(101, 111, 248);
+    height: 200px;
 }
